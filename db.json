@@ -1,0 +1,69 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Naranja",
+      "precio": "35"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Pera",
+      "precio": "12"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Pan",
+      "precio": 10,
+      "id": 6
+    },
+    {
+      "nombre": "Tequila",
+      "precio": 4,
+      "id": 7
+    },
+    {
+      "nombre": "Tequila",
+      "precio": 4,
+      "id": 8
+    },
+    {
+      "nombre": "jugo de naranja",
+      "precio": 3,
+      "id": 10
+    },
+    {
+      "nombre": "producto1",
+      "precio": 57,
+      "id": 11
+    },
+    {
+      "nombre": "otro producto",
+      "precio": 25,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "nombre": "Zapatos Nuevos",
+      "precio": "77"
+    },
+    {
+      "nombre": "Piña Colada",
+      "precio": 50,
+      "id": 14
+    }
+  ]
+}
